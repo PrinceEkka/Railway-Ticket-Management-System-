@@ -1,1 +1,2 @@
 # Railway-Ticket-Management-System-
+This was my first python project , I created it when I was in class 12, I my school I had an optional subject "Computer Science" ant there i learned Python and made this project.
